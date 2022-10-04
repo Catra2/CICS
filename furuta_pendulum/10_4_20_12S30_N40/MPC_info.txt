@@ -1,0 +1,12 @@
+Parameter	Value	
+________	________	
+Sample Time:	0.04	
+pHorizon:	25	
+mHorizon:	25	
+Duration:	5	
+Random Seed:	1234	
+Arm Lim:	2.19911485751286	
+Input Lim:	0.0336	
+MV Weight:	1	
+MVR Weight:	0.1	
+OV Weights:	2	6
